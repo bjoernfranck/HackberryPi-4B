@@ -37,7 +37,7 @@
 **Important**
 
 
-1. Download this ZIP. [Display-driver and config.txt](https://github.com/bjoernfranck/Hackberry-Pi_Zero/blob/main/DietPi/config-hyperpixel.zip))
+1. Download this ZIP. [config-display_driver.zip](https://github.com/bjoernfranck/HackberryPi-4B/blob/main/DietPi/config-display_driver.zip)
 Simply use the two files and it works. There are two files in the ZIP. (hyperpixel4.dto and config.txt)
 Copy this two files on the mircoSD hyperpixel4.dtbo to `/boot/overlays/` and config.txt to SD root folder. 
 
